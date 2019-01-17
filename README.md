@@ -15,10 +15,7 @@ This does not include unit tests, deployment configuration, etc. Due to time con
 For improvements, exception checking, logging, unit testing, deployments, etc. could be setup.
 
 # How to run
-Run directly from Visual Studio 2017, or in the command line (with dotnet core installed):
+Run directly from Visual Studio 2017, but first the database needs to be created:
 
 > dotnet ef database update
 
-> dotnet run
-
-Click the link in the command line to where it's hosted.
