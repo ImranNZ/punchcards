@@ -8,7 +8,11 @@ A small demo project has been implemented with .NET Core as a backend and ReactJ
 
 # What it is not
 
-This aims to show a glimpse of code quality and adherence to SOLID/DRY principles as well as front end ability using react and redux with Bootstrap 4. This does not include unit tests, deployment configuration, etc. Due to time constraints and the open ended code sample requested, this is not a full demonstration of what could be implemented (i.e. unit testing, deployment config).
+This aims to show a glimpse of code quality and adherence to SOLID/DRY principles as well as front end ability using react and redux with Bootstrap 4. 
+
+This does not include unit tests, deployment configuration, etc. Due to time constraints and the open ended code sample requested, this is not a full demonstration of what could be implemented.
+
+For improvements, exception checking, logging, unit testing, deployments, etc. could be setup.
 
 # How to run
 Run directly from Visual Studio 2017, or in the command line (with dotnet core installed):
